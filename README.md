@@ -2,6 +2,7 @@
 - 👀 I’m interested in all sorts of Web Development and Programing in general 😁 
 - 🌱 I’m currently learning React, GraphQL and MongoDB
 - 💞️ I’m looking to collaborate on open sources projects that help people
+- 🤖 Check my website: https://vinnieweb.dev
 - 📫 Please contact me on email 191.vinicius@gmail.com
 
 <!---
